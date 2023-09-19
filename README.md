@@ -1,4 +1,4 @@
-![](img/'Github banner (Software Engineer).png')
+![](img/software-engineer.png)
 
 ### About Me
 
