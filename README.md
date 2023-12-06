@@ -1,4 +1,4 @@
-![](img/software-engineer-banner.png)
+![](img/full-stack-banner.png)
 
 ### About Me
 
