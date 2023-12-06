@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 🎨 I am a Software Engineer with 3+ years of experience with JavaScript, React,Node.js, Python, and C++
-- 📸 I also have 5+ years of experience in photography, digital media, and graphic design
-- 📚 I am a Computer Science student at California State University, Fullerton
-- 💼 I am currently pursuing software engineering opportunities
+- 🚀 I am a Full-Stack Developer and Software Engineer with over 3 years of hands-on experience, specializing in crafting robust applications using JavaScript, React, Node.js, and Python.
+- 💻 My skills extend across the entire development stack, from designing responsive user interfaces to building scalable server-side solutions.
+- 📚 Currently a Computer Science student at California State University, Fullerton, I am dedicated to expanding my knowledge in Full-Stack Development.
+- 💼 I am actively seeking opportunities to contribute my Full-Stack skills and drive innovation in dynamic engineering environments.
